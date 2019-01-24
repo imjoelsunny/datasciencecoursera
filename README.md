@@ -1,2 +1,1 @@
-# Test-Git
-This is for testing Git.
+README.md
