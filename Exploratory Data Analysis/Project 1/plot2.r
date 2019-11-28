@@ -22,3 +22,4 @@ plot(x = powerDT[, dateTime]
      , type="l", xlab="", ylab="Global Active Power (kilowatts)")
 
 dev.off()
+
