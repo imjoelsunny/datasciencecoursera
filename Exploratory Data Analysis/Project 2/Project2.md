@@ -55,7 +55,7 @@ barplot(totalNEI[, Emissions]
 
 dev.off()
 ```
-<img src="https://github.com/imjoelsunny/datasciencecoursera/blob/master/ExploratoryDataAnalysis/Project2/plot2.png" alt="Exploratory Data Analysis Project 2 question 2" >
+<img src="https://github.com/imjoelsunny/datasciencecoursera/blob/master/Exploratory%20Data%20Analysis/Project%202/plot2.png" alt="Exploratory Data Analysis Project 2 question 2" >
 
 Question 3 ([plot3.R](https://github.com/imjoelsunny/datasciencecoursera/blob/master/Exploratory%20Data%20Analysis/Project%202/plot3.R))
 ----------
