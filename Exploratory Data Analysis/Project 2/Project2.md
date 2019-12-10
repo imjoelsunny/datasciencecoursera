@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Project 2 (JHU) Coursera
+# Exploratory Data Analysis Project 2
 
 Unzipping and Loading Files
 ----------
